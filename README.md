@@ -3,7 +3,7 @@ Learning Management System (LMS) is a web-based platform for students, teachers,
 Screenshot 2024-12-23 124224.png
 ## Screenshots
 
-![Login Page](login.png)
+![Screenshot](screenshots/Screenshot%202024-12-23%20124224.png)
 
 ![Student Dashboard](dashboard.png)
 
