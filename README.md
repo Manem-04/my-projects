@@ -1,4 +1,4 @@
-# my-projects
+# LMS
 
 
 **Learning Management System (LMS)** is a web-based platform designed for students, teachers, and administrators. Students can access lessons, take quizzes, submit answers, and view results. Teachers can manage learning materials and quizzes, while administrators handle user accounts and system management. Screenshots are provided for portfolio presentation.
